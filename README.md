@@ -1,7 +1,7 @@
 ## Tarefa semana 1: Quebra de Strings com CamelCase :pencil:
 Curso: [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes)
 ### Instruções
-Criar utilizando TDD um método que transforma uma cadeia de caracteres em camel case (http://pt.wikipedia.org/wiki/CamelCase) em uma lista de Strings com as palavras.
+Criar utilizando TDD um método que transforma uma cadeia de caracteres em [Camel Case](http://pt.wikipedia.org/wiki/CamelCase) em uma lista de Strings com as palavras.
 O método deve possuir a seguinte assinatura: "public static List<String> converterCamelCase(String original)".
 
 Faça um relatório detalhando todo o processo de TDD.
